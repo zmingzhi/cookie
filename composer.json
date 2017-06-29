@@ -1,5 +1,5 @@
 {
-  "name": "zmingzhi/cookie",
+  "name": "zongphp/cookie",
   "description": "COOKIE管理组件",
   "type": "project",
   "keywords": [
@@ -9,9 +9,9 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0",
-    "zmingzhi/config": "~1.0",
-    "zmingzhi/crypt": "~1.0",
-    "zmingzhi/arr": "~1.0"
+    "zongphp/config": "~1.0",
+    "zongphp/crypt": "~1.0",
+    "zongphp/arr": "~1.0"
   },
   "autoload": {
     "files": [
