@@ -1,17 +1,17 @@
 {
   "name": "zongphp/cookie",
   "description": "COOKIE管理组件",
-  "type": "project",
   "keywords": [
+    "zongphp",
     "cookie"
   ],
   "license": "MIT",
   "minimum-stability": "stable",
   "require": {
-    "php": ">=5.4.0",
-    "zongphp/config": "~1.0",
-    "zongphp/crypt": "~1.0",
-    "zongphp/arr": "~1.0"
+    "php": ">=5.6.0",
+    "zongphp/config": "~2.0",
+    "zongphp/crypt": "~2.0",
+    "zongphp/arr": "~2.0"
   },
   "autoload": {
     "files": [
